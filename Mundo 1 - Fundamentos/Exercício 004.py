@@ -1,6 +1,5 @@
 # Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele
 
-# O usuário digitará algo
 a = input("Digite algo: ")
 
 print(f"O tipo primtivo desse valor é: {type(a)}.")

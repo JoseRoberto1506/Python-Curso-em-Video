@@ -1,5 +1,7 @@
 # Curso de Python - Canal Curso em Video
- Esse repositório tem por objetivo compartilhar os exercícios propostos durante o curso, juntamente com minhas soluções para cada um deles.
+### Esse repositório tem por objetivo compartilhar os exercícios propostos durante o curso, juntamente com minhas soluções para cada um deles. Sinta-se à vontade para estudar as resoluções e também para sugerir alterações.
+ 
+ ---
  
  Acesse o canal do Curso em Vídeo [clicando aqui](https://www.youtube.com/user/cursosemvideo).
  

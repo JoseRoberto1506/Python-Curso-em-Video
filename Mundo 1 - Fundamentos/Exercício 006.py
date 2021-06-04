@@ -14,6 +14,6 @@ triple = number * 3
 # Variável para calcular a raíz quadrada
 square_root = math.sqrt(number)
 
-print(f"O dobro do número digitado é {double}.")
-print(f"O triplo do número digitado é {triple}.")
-print(f"A raíz quadrada o número digitado é {square_root}.")
+print(f"O dobro de {number} é {double}.")
+print(f"O triplo de {number} é {triple}.")
+print(f"A raíz quadrada de {number} é {square_root}.")

@@ -1,7 +1,7 @@
 # Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
 # O usuário digitará o valor em metros
-meters = float(input("Digite um valor em metros: "))
+meters = float(input("Digite uma distância em metros: "))
 
 km = meters / 1000
 hm = meters / 100

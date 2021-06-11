@@ -4,4 +4,4 @@ number = int(input("Digite um número: "))
 sucessor = number + 1
 predecessor = number - 1
 
-print(f"O antecessor do número {number} é {predecessor} e seu sucessor é {sucessor}")
+print(f"O antecessor do número {number} é {predecessor} e seu sucessor é {sucessor}.")

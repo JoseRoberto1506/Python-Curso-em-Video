@@ -3,7 +3,7 @@
 from math import hypot
 
 cat_op = float(input("Comprimento do cateto oposto: "))
-cat_adj = float(input("Cateto adjacente: "))
+cat_adj = float(input("Comprimento do cateto adjacente: "))
 hypotenuse = hypot(cat_op, cat_adj)
 
 print(f"A hipotenusa vai medir {hypotenuse:.2f}.")

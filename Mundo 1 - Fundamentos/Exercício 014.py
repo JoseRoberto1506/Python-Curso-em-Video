@@ -1,4 +1,4 @@
-# Escreva um programa que converta um a temperatura digitada em ºC e converta para ºF.
+# Escreva um programa que converta um a temperatura digitada em °C e converta para °F.
 
 celsius = float(input("Informe a temperatura em °C: "))
 fahrenheit = ((celsius * 9) / 5) + 32

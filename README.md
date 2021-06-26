@@ -9,4 +9,6 @@
  
  Acesse a playlist do Mundo 2: Estruturas de Controle [clicando aqui](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye).
  
- Acesse a playlist do Mundo 3: Estruturas Compostas [clicando aqui](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH).
+ Acesse a playlist do Mundo 3: Estruturas Compostas [clicando aqui](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH).
+
+ Acesse a playlist de Exercícios [clicando aqui](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-).

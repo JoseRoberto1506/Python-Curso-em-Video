@@ -8,5 +8,4 @@ for n in range(1, 501, 2):
         counter += 1
         sum += n
 
-
 print(f"A soma de todos os {counter} valores solicitados é {sum}.")

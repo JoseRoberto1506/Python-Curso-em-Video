@@ -21,13 +21,9 @@ while True:
     if price > 1000:
         counter += 1
     
-    if num_pro == 1:
+    if num_pro == 1 or price < cheaper:
         cheaper = price
         cheaper_product = product
-    else:
-        if price < cheaper:
-            cheaper = price
-            cheaper_product = product
 
     while choice not in 'SN':
         choice = str(input("Quer continuar? [S/N] ")).strip().upper()[0]   

@@ -4,7 +4,8 @@ b) Os últimos 4 colocados.
 c) Times em ordem alfabética.
 d) Em que posição está o time da Chapecoense.'''
 
-teams = ('Atlético-MG', 'Flamengo', 'Palmeiras', 'Corinthians', 'Bragantino', 'Fortaleza', 'Fluminense', 'Ceará', 'Internacional', 'América-MG', 'Santos', 'São Paulo', 'Atlético-GO', 'Cuiabá', 'Athlético-PR', 'Bahia', 'Juventude', 'Grêmio', 'Sport', 'Chapecoense')
+teams = ('Atlético-MG', 'Flamengo', 'Palmeiras', 'Corinthians', 'Bragantino', 'Fortaleza', 'Fluminense', 'Ceará', 'Internacional', 'América-MG', 'Santos', 'São Paulo', 
+         'Atlético-GO', 'Cuiabá', 'Athlético-PR', 'Bahia', 'Juventude', 'Grêmio', 'Sport', 'Chapecoense')
 
 print("=" * 101)
 print(f"Lista de times do Brasileirão {teams}")

@@ -59,3 +59,23 @@ def moeda(p):
     :retorno: Preço formatado como valor monetário
     '''
     return str(f"R${p:.2f}").replace(".", ",")
+
+
+# Função para mostrar o resultado das outras funções
+def resumo(p=0, aumenta=0, diminui=0):
+    '''
+    :param p: Preço
+    :param aumenta: Percentual de aumento
+    :param diminui: Percentual de redução
+    '''
+    print("-" * 34)
+    print("RESUMO DO VALOR".center(34))
+    print("-" * 34)
+
+    print(f"Preço analisado: \t{moeda(p)}")
+    print(f"Dobro do preço: \t{dobro(p, True)}")
+    print(f"Metade do preço: \t{metade(p, True)}")
+    print(f"{aumenta}% de aumento: \t{aumentar(p, aumenta, True)}")
+    print(f"{diminui}% de redução: \t{diminuir(p, diminui, True)}")
+    
+    print("-" * 34)
